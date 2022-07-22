@@ -1,0 +1,475 @@
+#div1{
+    background-color: white;
+}
+tr{
+    display: inline-block;
+    width:700px;
+    height:200px;
+    position: sticky;
+    top:0px;
+    padding-right:90px;
+}
+#home{
+    background-color: gray;
+    color: white;
+    text-align: center;
+    width:80px;
+}
+#Pokedex{
+    text-align: center;
+    width:80px;
+    height:70px;
+}
+#Pokedex:hover{
+    background-color: red;
+    color: white;
+}
+#VideoGames{
+    text-align:center;
+}
+#VideoGames:hover{
+    background-color:rgb(255, 153, 0);
+    color: white;
+}
+#TradingCard{
+    text-align:center;
+}
+#TradingCard:hover{
+    background-color: rgb(255, 213, 0);
+    color: white;
+}
+#PokemonTV{
+    text-align:center;
+}
+#PokemonTV:hover{
+    background-color: rgb(0, 128, 68);
+    color: white;
+}
+#Pokemonevents{
+    text-align:center;
+}
+#Pokemonevents:hover{
+    background-color:rgb(0, 110, 255);
+    color: white;
+}
+#News{
+    text-align:center;
+    width:80px; 
+}
+#News:hover{
+    background-color: rgb(0, 60, 128);
+    color: white;
+}
+.subdiv1{
+    border:2px solid rgb(0, 85, 255);
+    border-radius: 10px;
+    width:43%;
+    background-color: rgb(0, 85, 255);
+    margin-left:13%
+}
+.subdiv1:hover{
+    background-color: blue;
+    color: white;
+}
+#imagelogo{
+  padding-left:65%;
+  padding-top: 0px;
+}
+.maindiv{
+    display:flex;
+} 
+.span1{
+    display: flex;
+    margin-left: 19px;
+    border: 1px solid rgb(173, 162, 162);
+    border-radius:10px;
+    height:fit-content;
+    width:350px;
+    background-color: rgb(173, 162, 162);
+}
+.span1:hover{
+    background-color: gray;
+    color: white;
+}
+#p1{
+    padding-left: 19px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:x-large;
+}
+#forst1{
+    color: white;
+}
+#p2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#span2{
+    border: 2px solid blue;
+    border-radius:10px;
+    width: fit-content;
+    height: fit-content;
+    background-color: blue;
+    color: white;
+    position: relative;
+    top: 160px;
+    right:272px;
+}
+#span2:hover{
+    background-color:navy;
+    color: white;
+}
+#maindiv2{
+    display: flex;
+}
+#leg{
+    background-color: black;
+    color: white;
+    padding: 12px;
+}
+#subdiv2{
+    border: 2px solid rgb(203, 152, 250);
+    border-radius:10px;
+    width: fit-content;
+    height: fit-content;
+    background-color: rgb(203, 152, 250) ;
+    margin-top: 2px;
+    margin-left: 13%;
+}
+#subdiv2:hover{
+    background-color: blueviolet;
+    color: white;
+}
+#subdiv3{
+    border: 2px solid rgb(245, 87, 29);
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
+    background-color:rgb(245, 87, 29) ;
+    margin-top:2px;
+    margin-left:13px;
+    text-align: center;
+}
+#subdiv3:hover{
+    background-color: orangered;
+    color: white;
+}
+#subdiv4{
+    border: 2px solid: rgba(250, 73, 73, 0.996);
+    border-radius: 10px;
+    width:fit-content;
+    height: fit-content;
+    background-color:rgba(250, 73, 73, 0.996) ;
+    margin-top: 2px;
+    margin-left : 13px;
+}
+#subdiv4:hover{
+  background-color:red;
+  color: white;
+}
+#subdiv5{
+   border: 2px solid white;
+   width: fit-content;
+   height: 280px;
+   background-color: rgb(50, 49, 49);
+   color: white;
+}
+#subdiv5:hover{
+   background-color: black;
+}
+#p3{
+   position: relative;
+   left:84%;
+   bottom:34px;
+}
+#p4{
+    position: relative;
+    bottom:40px;
+}
+#b1{
+    background-color: orangered;
+    position: relative;
+    left:40%;
+    bottom:73px;
+    border: 2px;
+    border-color: orangered;
+    border-radius: 8px;
+}
+#p5{
+    position: relative;
+    bottom: 80px;
+}
+#p6{
+    position: relative;
+    left:66% ;
+    bottom: 115px;
+}
+#p7{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+#subdiv6{
+    border: 2px solid white;
+    width: fit-content;
+    height: 280px;
+    background-color: rgb(50, 49, 49);
+    color: white;
+}
+#subdiv6:hover{
+    background-color: black;
+}
+#p8{
+    position: relative;
+    left:84%;
+    bottom:35px;
+}
+#p9{
+    position: relative;
+    bottom:40px;
+}
+#b2{
+    background-color: rgb(10, 10, 253);
+    color: white;
+    position: relative;
+    left:35%;
+    bottom:73px;
+    border: 2px;
+    border-color: rgb(10, 10, 253);
+    border-radius: 8px;
+}
+#b3{
+    background-color: aqua;
+    color: white;
+    position: relative;
+    left: 40%;
+    bottom:73px;
+    border:2px;
+    border-color: aqua;
+    border-radius:8px;
+}
+#p10{
+    position: relative;
+    bottom: 80px;
+}
+#p11{
+    position: relative;
+    left: 45%;
+    bottom: 115px;
+}
+#maindiv3{
+    display: flex; 
+    padding: 2px;
+} 
+#p12{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#p13{
+    position: relative;
+    left:84%;
+    bottom:35px;
+}
+#subdiv7{
+    border: 2px solid white;
+    width: fit-content;
+    height: 280px;
+    background-color: rgb(50, 49, 49);
+    color: white;
+}
+#subdiv7:hover{
+    background-color: black;
+}
+#p14{
+    position: relative;
+    bottom:40px;
+}
+#b4{
+    background-color: rgb(235, 101, 101);
+    color: white;
+    position: relative;
+    left:35%;
+    bottom:73px;
+    border: 2px;
+    border-color: rgb(235, 101, 101);
+    border-radius: 8px;
+}
+#p15{
+    position: relative;
+    bottom: 80px;
+}
+#p16{
+    position: relative;
+    left: 45%;
+    bottom: 115px;
+}
+#p17{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#p18{
+    position: relative;
+    left:84%;
+    bottom:35px;
+}
+#p19{
+    position: relative;
+    bottom:40px;
+}
+#b6{
+    background-color: rgb(108, 108, 241);
+    color: white;
+    position: relative;
+    left:35%;
+    bottom:73px;
+    border: 2px;
+    border-color: rgb(108, 108, 241);
+    border-radius: 8px;
+}
+#p20{
+    position: relative;
+    bottom: 80px;
+}
+#p21{
+    position: relative;
+    left: 45%;
+    bottom: 115px;
+}
+#subdiv8{
+    border: 2px solid white;
+    width: fit-content;
+    height: 280px;
+    background-color: rgb(50, 49, 49);
+    color: white;
+}
+#subdiv8:hover{
+    background-color: black;
+}
+#subdiv9{
+    border: 2px solid white;
+    width: fit-content;
+    height: 280px;
+    background-color: rgb(50, 49, 49);
+    color: white;
+}
+#subdiv9:hover{
+    background-color: black;
+}
+#p22{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#p23{
+    position: relative;
+    left:84%;
+    bottom:35px;
+}
+#p24{
+    position: relative;
+    bottom:40px;
+}
+#b7{
+    background-color: greenyellow;
+    color: white;
+    position: relative;
+    left:35%;
+    bottom:73px;
+    border: 2px;
+    border-color: greenyellow;
+    border-radius: 8px;
+}
+#p25{
+    position: relative;
+    bottom: 80px;
+}
+#p26{
+    position: relative;
+    left: 45%;
+    bottom: 115px;
+}
+#subdiv10{
+    border: 2px solid white;
+    width: fit-content;
+    height: 280px;
+    background-color: rgb(50, 49, 49);
+    color: white;
+}
+#subdiv10:hover{
+    background-color: black;
+}
+#p27{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#p28{
+    position: relative;
+    left:84%;
+    bottom:35px;
+}
+#p29{
+    position: relative;
+    bottom:40px;
+}
+#b8{
+    background-color: gray;
+    color: white;
+    position: relative;
+    left:35%;
+    bottom:73px;
+    border: 2px;
+    border-color: grey;
+    border-radius: 8px;
+}
+#p30{
+    position: relative;
+    bottom: 80px;
+}
+#p31{
+    position: relative;
+    left: 45%;
+    bottom: 115px;
+}
+.c1{
+    background-color: rgb(180, 84, 180);
+    color: white;
+}
+.c1:hover{
+    background-color: purple;
+    color: white;
+}
+.c2{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    position: relative;
+}
+.c2:hover{
+    background-color: darkred;
+    color: white;
+}
+.c3{
+    background-color: yellow;
+    color: white;
+}
+.c3:hover{
+    background-color:yellowgreen;
+    color: white;
+}
+.c4{
+    background-color: rgb(243, 123, 80);
+    color: white;
+
+}
+.c4:hover{
+    background-color: orangered;
+    color: white;
+}
+.c5{
+    background-color: rgb(166, 253, 36);
+    color: white;
+}
+.c5:hover{
+    background-color: green;
+    color: white;
+}
+.c6{
+    background-color:rgb(120, 205, 234);
+    color: white;
+}
+.c6:hover{
+    background-color: blue;
+    color: white;
+}
